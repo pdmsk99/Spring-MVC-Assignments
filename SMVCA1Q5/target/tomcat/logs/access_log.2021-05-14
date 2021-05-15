@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [14/May/2021:10:40:25 +0530] "GET /newEmployee HTTP/1.1" 200 506 http-bio-8080-exec-2 147
+0:0:0:0:0:0:0:1 - - [14/May/2021:10:40:38 +0530] "POST /newEmployee HTTP/1.1" 500 8602 http-bio-8080-exec-3 1623
